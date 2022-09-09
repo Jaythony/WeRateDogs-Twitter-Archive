@@ -37,4 +37,4 @@ At this point, I addressed and cleaned the **eight (8) quality issues and four (
 I saved my gathered, assessed, and cleaned master dataset to a CSV file using the pandas to_csv() method.
 
 ## Analyzing and Visualizing Data
-Finally, I analyzed my master data set to get insights and produced visual representations of these insights with the help of matplotlib and seaborn.
+Finally, I analyzed my master data set to get insights and produced visual representations of these insights with the help of matplotlib and seaborn. A detailed report of the insights I got is contained in the insights_report.pdf file which can be found in the repo.
